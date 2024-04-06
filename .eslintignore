@@ -4,3 +4,4 @@ node_modules
 .prettierrc.cjs
 .commitlintrc.cjs
 .lintstagedrc.cjs
+drizzle.config.js
